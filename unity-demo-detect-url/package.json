@@ -1,0 +1,59 @@
+{
+  "name": "porfolio",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emailjs/browser": "^4.4.1",
+    "@fortawesome/fontawesome-svg-core": "^6.7.2",
+    "@fortawesome/free-brands-svg-icons": "^6.7.2",
+    "@fortawesome/free-regular-svg-icons": "^6.7.2",
+    "@fortawesome/free-solid-svg-icons": "^6.7.2",
+    "@fortawesome/react-fontawesome": "^0.2.2",
+    "@material-tailwind/react": "^2.1.10",
+    "@reduxjs/toolkit": "^2.5.0",
+    "animate.css": "^4.1.1",
+    "axios": "^1.7.9",
+    "clsx": "^2.1.1",
+    "cra-template": "1.2.0",
+    "framer-motion": "^11.16.4",
+    "motion": "^11.17.0",
+    "react": "^18.0.0",
+    "react-animate-on-scroll": "^2.1.9",
+    "react-dom": "^18.0.0",
+    "react-icons": "^5.4.0",
+    "react-redux": "^9.2.0",
+    "react-router-dom": "^7.1.1",
+    "react-scripts": "5.0.1",
+    "react-scroll": "^1.9.0",
+    "react-spinners": "^0.15.0",
+    "react-type-animation": "^3.2.0",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "GENERATE_SOURCEMAP=false react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.17"
+  }
+}
