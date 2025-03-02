@@ -2,7 +2,7 @@
 # or can use Webrisk API if you well-off 
 from pysafebrowsing import SafeBrowsing
 
-API_KEY="AIzaSyBIZSl5N1k2d3HSewCEtc-WgrxIXf2nHwM"
+API_KEY=""
 def check_url(url):
     try:
         # Initialize the SafeBrowsing object with the API key
